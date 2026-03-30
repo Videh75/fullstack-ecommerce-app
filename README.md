@@ -55,8 +55,8 @@ e-commerce/app/utils/trackEvent.ts
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/Videh75/Videh_Nandini_mable_full_stack_task_20_July_2025.git
-cd Videh_Nandini_mable_full_stack_task_20_July_2025
+git clone https://github.com/Videh75/fullstack-ecommerce-app
+cd fullstack-ecommerce-app
 ```
 
 ### 1. Backend setup
