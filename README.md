@@ -1,6 +1,6 @@
 # Mable Full Stack Developer Technical Task – July 2025
 
-This is the submission for the Mable Full Stack Developer Technical Task, implemented by [Videh Nandini](https://github.com/Videh75). The project demonstrates a complete full-stack implementation of an e-commerce-style product library with user authentication, analytics tracking, and cart management.
+The project demonstrates a complete full-stack implementation of an e-commerce-style product library with user authentication, analytics tracking, and cart management.
 
 The **tracking logic** is handled by a reusable script located at:
 ```
