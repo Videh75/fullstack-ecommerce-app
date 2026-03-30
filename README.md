@@ -1,4 +1,4 @@
-# Mable Full Stack Developer Technical Task – July 2025
+# Fullstack E-Commerce App
 
 The project demonstrates a complete full-stack implementation of an e-commerce-style product library with user authentication, analytics tracking, and cart management.
 
